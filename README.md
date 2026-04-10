@@ -2,6 +2,9 @@
 
 Minecraft Circle / Sphere / Dome 材料计算 Skill（Codex 本地技能）。
 
+Official Website: https://mcshapes.vip  
+Official Preview: https://mcshapes.vip
+
 输入直径、填充模式、层数等参数，返回：
 - `total_blocks`
 - `visible_blocks`

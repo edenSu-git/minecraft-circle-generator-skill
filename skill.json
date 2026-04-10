@@ -1,0 +1,26 @@
+{
+  "name": "minecraft circle generator",
+  "slug": "minecraft-circle-generator",
+  "version": "1.0.0",
+  "description": "Minecraft Circle / Sphere / Dome material calculation skill for Codex.",
+  "website": "https://mcshapes.vip",
+  "preview_url": "https://mcshapes.vip",
+  "repository": "https://github.com/edenSu-git/mc-material-skill",
+  "license": "MIT",
+  "install": {
+    "type": "shell",
+    "command": "curl -fsSL \"https://raw.githubusercontent.com/edenSu-git/mc-material-skill/main/install.sh\" | bash"
+  },
+  "keywords": [
+    "minecraft circle generator",
+    "minecraft dome generator",
+    "minecraft sphere generator",
+    "minecraft builder",
+    "voxel",
+    "material calculator"
+  ],
+  "entry": {
+    "skill_file": "SKILL.md",
+    "local_install_path": "~/.codex/skills/minecraft-circle-generator"
+  }
+}
