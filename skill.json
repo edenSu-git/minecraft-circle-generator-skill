@@ -5,11 +5,11 @@
   "description": "Minecraft Circle / Sphere / Dome material calculation skill for Codex.",
   "website": "https://mcshapes.vip",
   "preview_url": "https://mcshapes.vip",
-  "repository": "https://github.com/edenSu-git/mc-material-skill",
+  "repository": "https://github.com/edenSu-git/minecraft-circle-generator-skill",
   "license": "MIT",
   "install": {
     "type": "shell",
-    "command": "curl -fsSL \"https://raw.githubusercontent.com/edenSu-git/mc-material-skill/main/install.sh\" | bash"
+    "command": "curl -fsSL \"https://raw.githubusercontent.com/edenSu-git/minecraft-circle-generator-skill/main/install.sh\" | bash"
   },
   "keywords": [
     "minecraft circle generator",

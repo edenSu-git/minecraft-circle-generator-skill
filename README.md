@@ -13,7 +13,7 @@ Official Website: https://mcshapes.vip
 ## 一键安装（Codex）
 
 ```bash
-curl -fsSL "https://raw.githubusercontent.com/edenSu-git/mc-material-skill/main/install.sh" | bash
+curl -fsSL "https://raw.githubusercontent.com/edenSu-git/minecraft-circle-generator-skill/main/install.sh" | bash
 ```
 
 安装路径：

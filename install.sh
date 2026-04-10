@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_RAW_BASE="${REPO_RAW_BASE:-https://raw.githubusercontent.com/edenSu-git/mc-material-skill/main}"
+REPO_RAW_BASE="${REPO_RAW_BASE:-https://raw.githubusercontent.com/edenSu-git/minecraft-circle-generator-skill/main}"
 TARGET_DIR="${HOME}/.codex/skills/minecraft-circle-generator"
 SCRIPTS_DIR="${TARGET_DIR}/scripts"
 
